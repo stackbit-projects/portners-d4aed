@@ -45,6 +45,8 @@
 
   .avatar {
     display: block;
+    -o-object-fit: cover;
+    object-fit: cover;
     width: 150px;
   }
 }
